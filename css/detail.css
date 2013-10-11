@@ -1,0 +1,65 @@
+.dimensions {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+	color: #664425;
+	text-align: center;
+	display: block;
+}
+.name {
+	font-size: 14px;
+	font-weight: bold;
+	color: #664425;
+	display: block;
+	text-align: center;
+}
+#title {
+	text-align: center;
+	vertical-align: middle;
+	width: 153px;
+	margin-top: 150px;
+}
+body {
+	background-color: #EDE1C9;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#wrapper {
+	height: 412px;
+	width: 375px;
+}
+#photo {
+	float: left;
+	height: 382px;
+	width: 222px;
+}
+#description {
+	float: left;
+	height: 382px;
+	width: 153px;
+}
+#footer {
+	background-color: #4A4471;
+	float: left;
+	height: 30px;
+	width: 375px;
+}
+.style2 {
+	color: #FFFFFF;
+	display: block;
+	text-align: right;
+	font-style: italic;
+	font-size: 12px;
+	padding-right: 25px;
+	text-decoration: none;
+	padding-top: 5px;
+}
+.style2 a:link {
+	text-decoration: none;
+	color: #B7ACF3;
+}
+.style2 a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}

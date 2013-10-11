@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+@import url("../css/detail.css");
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+</head>
+
+<body>
+<div id="wrapper"><!-- TemplateBeginEditable name="EditRegion3" -->
+  <div id="photo"></div>
+  <div id="description"></div>
+<!-- TemplateEndEditable -->
+  <div id="footer"><a href="#" class="style2" onClick="MM_callJS('window.close()')">Close</a></div>
+</div>
+</body>
+</html>

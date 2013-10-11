@@ -1,0 +1,155 @@
+/* CSS Document */
+
+.navsubmenus p {
+	margin: 0;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 20px;
+	text-align: left;
+	text-decoration: none;
+}
+.navsubmenus a, .navsubmenus a:visited {
+	display: block;
+	background-color: #333366;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 16px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.navsubmenus a:hover, .navsubmenus a:active, .navsubmenus a:focus {
+	background-color: #9D98BC;
+	color: #333366;
+}
+#artistsub {
+	left: 3px;
+	z-index: auto;
+}
+#artistsub {
+	position:absolute;
+	width:93px;
+	height:139px;
+	z-index:1;
+	visibility: hidden;
+	top: 6px;
+}
+#sculptsub {
+	position:absolute;
+	width:106px;
+	height:115px;
+	z-index:2;
+	top: 115px;
+	visibility: hidden;
+}
+#navsculpture a {
+	float: left;
+	height: 23px;
+	width: 106px;
+}
+#navartist a {
+	float: left;
+	height: 23px;
+	width: 93px;
+}
+#navhome a {
+	float: left;
+	height: 23px;
+	width: 62px;
+}
+#navcontact a {
+	float: left;
+	height: 23px;
+}
+#navcontact a:link{
+	float: left;
+	height: 23px;
+}
+#sculptsub {
+	width: 106px;
+}
+#papersub {
+	position:absolute;
+	width:144px;
+	height:46px;
+	z-index:3;
+	visibility: hidden;
+}
+#wrapper {
+	height: 595px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+#paper_mm-Wrapper {
+	width: 667px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+#paper_mm-WrapperRev12 {
+	/* [disabled]width: 667px; */
+	background-color: #FFFFFF;
+	/* [disabled]height: 600px; */
+}
+.gridwood {
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+.gridwoodLower {
+	padding-right: 22px;
+	padding-bottom: 20px;
+}
+.gridtableTop {
+	padding-right: 22px;
+	padding-bottom: 10px;
+}
+#navPortfolio {
+	text-align: right;
+	float: right;
+	height: 20px;
+	/* [disabled]width: 129px; */
+	margin-right: 10px;
+}
+#navPortfolio a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #666;
+	text-decoration: none;
+}
+#navPortfolio a:link, #navPortfolio a:visited {
+	text-decoration: none;
+	font-style: normal;
+}
+#navPortfolio .current {
+	color: #000;
+	padding-right: 10px;
+}
+.gridmm_Lower {
+	padding-right: 30px;
+	padding-bottom: 0px;
+}
+.gridmmLeft {
+	float: left;
+	height: 109px;
+	width: 85px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+}
+.mm-row2 {
+	float: left;
+	width: 465px;
+}
+#indexGif {
+	float: left;
+	height: 520px;
+}

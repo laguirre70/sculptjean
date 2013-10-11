@@ -1,0 +1,76 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#wrapper {
+	float: left;
+	height: 375px;
+	width: 427px;
+}
+#banner {
+	float: left;
+	height: 384px;
+	width: 52px;
+}
+#photo {
+	float: left;
+	height: 367px;
+	width: 222px;
+	margin-top: 17px;
+}
+#title {
+	float: left;
+	height: 348px;
+	width: 153px;
+	display: block;
+	vertical-align: bottom;
+	text-align: center;
+}
+#footer {
+	background-color: #4A4471;
+	float: left;
+	height: 30px;
+	width: 427px;
+}
+#titlewrapper {
+	width: 153px;
+	margin-top: 250px;
+	margin-bottom: 0px;
+}
+.name {
+	font-size: 14px;
+	font-weight: bold;
+	color: #664425;
+	display: block;
+	text-align: center;
+}
+.dimensions {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+	color: #664425;
+	text-align: center;
+	display: block;
+}
+.style2 {
+	color: #FFFFFF;
+	display: block;
+	text-align: right;
+	font-style: italic;
+	font-size: 12px;
+	text-decoration: none;
+	padding-top: 5px;
+}
+#footerwrap {
+}
+.style2 a:link {
+	text-decoration: none;
+	color: #B7ACF3;
+	margin-right: 25px;
+}
+.style2 a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.style3 {font-size: 12px}

@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#artwrapper {
+	float: left;
+	height: 575px;
+	width: 403px;
+}
+#banner {
+	float: left;
+	height: 375px;
+	width: 52px;
+	padding-bottom: 5px;
+}
+#photo {
+	float: left;
+	height: 520px;
+	width: 403px;
+	/* [disabled]padding-left: 5px; */
+	/* [disabled]padding-top: 5px; */
+}
+#caption {
+	float: left;
+	width: 403px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #664425;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	padding-top: 5px;
+	height: 40px;
+}
+#titlewrapper {
+	/* [disabled]width: 160px; */
+	margin-top: 243px;
+	margin-bottom: 0px;
+}
+.name {
+	font-size: 14px;
+	font-weight: bold;
+	color: #664425;
+	display: block;
+	text-align: center;
+}
+.dimensions {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+	color: #664425;
+	text-align: center;
+	display: block;
+}
+.style2 {
+	color: #FFFFFF;
+	text-align: right;
+	font-style: italic;
+	font-size: 12px;
+	text-decoration: none;
+	padding-top: 5px;
+	width: 427px;
+}
+.style2 a:link {
+	text-decoration: none;
+	margin-right: 25px;
+	color: #FFFFFF;
+}
+.style2 a:hover {
+	color: #B7ACF3;
+	text-decoration: none;
+}

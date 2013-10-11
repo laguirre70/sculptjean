@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#wrapper {
+	float: left;
+	/* [disabled]height: 575px; */
+	width: 355px;
+}
+
+#wrapperNarrow {
+	float: left;
+	/* [disabled]height: 575px; */
+	width: 355px;
+}
+#photo {
+	float: left;
+	height: 520px;
+	width: 355px;
+}
+#photoNarrow {
+	float: left;
+	height: 386px;
+	width: 355px;
+}
+
+#title {
+	float: left;
+	height: 520px;
+	width: 100px;
+	display: block;
+	vertical-align: bottom;
+	text-align: center;
+}
+#footer {
+	background-color: #4A4471;
+	float: left;
+	height: 30px;
+	width: 427px;
+}
+#captionTotem {
+	float: left;
+	width: 355px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #664425;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	padding-top: 5px;
+}

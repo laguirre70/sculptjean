@@ -1,0 +1,234 @@
+body {
+	background-color: #EDE1C9;
+	margin-top: 20px;
+}
+
+#bannert {
+	float: left;
+	height: 41px;
+	width: 57px;
+}
+#nav {
+	float: left;
+	height: 41px;
+	background-attachment: fixed;
+	background-image: url(images/nav.jpg);
+	background-repeat: no-repeat;
+	width: 693px;
+}
+#copyright {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #FFFFFF;
+	text-align: right;
+	display: block;
+	margin-right: 30px;
+	margin-top: 15px;
+}
+.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #4A4471;
+	text-decoration: none;
+	text-align: right;
+}
+#center {
+	float: left;
+	height: 512px;
+	width: 678px;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 30px;
+}
+#right {
+	float: left;
+	height: 512px;
+	width: 678px;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+}
+#sculptwrapper
+ {
+	display: block;
+	float: left;
+	height: 196px;
+	width: 475px;
+	margin-left: 105px;
+}
+.gridtable {
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.grid {
+	float: left;
+	height: 196px;
+	width: 87px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.sculpttitle {
+	float: left;
+	height: 12px;
+	width: 465px;
+	margin-left: 105px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
+#footer {
+	float: left;
+	height: 42px;
+	width: 750px;
+	background-image: url(images/footer.jpg);
+	background-repeat: no-repeat;
+}
+#bannerb {
+	float: left;
+	height: 512px;
+	width: 72px;
+}
+#wrapper {
+	height: 595px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+.navsubmenus p {
+	margin: 0;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 20px;
+	text-align: left;
+	text-decoration: none;
+}
+.navsubmenus a, .navsubmenus a:visited {
+	display: block;
+	background-color: #615E72;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 16px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.navsubmenus a:hover, .navsubmenus a:active, .navsubmenus a:focus {
+	background-color: #9D98BC;
+	color: #5F5C70;
+}
+#artistsub {
+	left: 3px;
+	z-index: auto;
+}
+#artistsub {
+	position:absolute;
+	width:93px;
+	height:139px;
+	z-index:1;
+	visibility: hidden;
+	top: 6px;
+}
+#sculptsub {
+	position:absolute;
+	width:106px;
+	height:115px;
+	z-index:2;
+	top: 115px;
+	visibility: hidden;
+}
+#navsculpture a {
+	float: left;
+	height: 23px;
+	width: 106px;
+}
+#navartist a {
+	float: left;
+	height: 23px;
+	width: 93px;
+}
+#navhome a {
+	float: left;
+	height: 23px;
+	width: 62px;
+}
+#sculptsub {
+	width: 106px;
+}
+#papersub {
+	position:absolute;
+	width:144px;
+	height:46px;
+	z-index:3;
+	visibility: hidden;
+}
+.name {
+	font-size: 14px;
+	font-weight: bold;
+	color: #5F5C70;
+	display: block;
+	margin-left: 25px;
+}
+.statement {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 28px;
+	color: #4A4471;
+	text-align: left;
+	margin-left: 25px;
+	display: block;
+	margin-right: 40px;
+	margin-top: 10px;
+}
+.criticstitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 28px;
+	color: #4A4471;
+	text-align: left;
+	margin-left: 25px;
+	display: block;
+	margin-right: 25px;
+}
+#rightTop {
+	float: left;
+	width: 466px;
+	background-color: #FFFFFF;
+	background-image: url(images/Artist_Selected-Exhibitions.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px top;
+	display: block;
+	height: 12px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#rightTop_b {
+	float: left;
+	width: 466px;
+	background-color: #FFFFFF;
+	background-image: url(images/Artist_Selected-Exhibitions.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px top;
+	display: block;
+	height: 12px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.publicplaces {
+	margin-left: 25px;
+}
+#tablewrap {
+	float: left;
+	height: 435px;
+	width: 415px;
+	margin-left: 105px;
+}

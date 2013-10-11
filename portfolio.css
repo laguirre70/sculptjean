@@ -1,0 +1,242 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #EDE1C9;
+	margin-top: 0px;
+}
+#center {
+	float: left;
+	height: 512px;
+	width: 678px;
+}
+#centerwrapperLeft {
+	float: left;
+	/* [disabled]width: 699px; */
+	/* [disabled]padding-left: 50px; */
+	/* [disabled]padding-right: 20px; */
+	/* [disabled]height: 520px; */
+	font-style: italic;
+}
+#centerwrapperLeftpaper {
+	float: left;
+	height: 575px;
+	width: 700px;
+}
+#centerwrapperLeftTotem {
+	float: left;
+	/* [disabled]width: 700px; */
+	/* [disabled]padding-left: 50px; */
+	/* [disabled]padding-right: 20px; */
+	/* [disabled]height: 520px; */
+	font-style: italic;
+}
+#centerwrapperLeftStep {
+	float: left;
+	/* [disabled]width: 699px; */
+	/* [disabled]padding-left: 50px; */
+	/* [disabled]padding-right: 20px; */
+	height: 520px;
+	font-style: italic;
+}
+#right {
+	float: left;
+	height: 435px;
+	width: 678px;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: 25px top;
+}
+#wrapper {
+	height: 595px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+#rightTop {
+	float: left;
+	width: 466px;
+	background-color: #FFFFFF;
+	background-image: url(images/Artist_Selected-Exhibitions.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px top;
+	display: block;
+	height: 12px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#rightTop_b {
+	float: left;
+	width: 466px;
+	background-color: #FFFFFF;
+	background-image: url(images/Artist_Selected-Exhibitions.jpg);
+	background-repeat: no-repeat;
+	background-position: 25px top;
+	display: block;
+	height: 12px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.publicplaces {
+	margin-left: 25px;
+}
+.papermm {
+	float: left;
+	height: 12px;
+	width: 465px;
+	margin-left: 55px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#wallwrap {
+	float: left;
+	height: 550px;
+	width: 195px;
+	padding-left: 55px;
+}
+#wallwrap_mm1{
+	float: left;
+	/* [disabled]height: 575px; */
+	width: 195px;
+	padding-left: 55px;
+	padding-top: 10px;
+}
+#wallwrap_step{
+	float: left;
+	height: 520px;
+	width: 225px;
+	padding-left: 55px;
+	/* [disabled]padding-top: 10px; */
+}
+.gridmm_Rev12{
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.gridmm_step{
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+}
+.gridmm{
+	padding-right: 30px;
+	padding-bottom: 25px;
+	float: left;
+}
+.gridmmCopy {
+	padding-right: 5px;
+}
+.gridmmH {
+	padding-right: 5px;
+	margin-bottom: 12px;
+}
+#navcontact a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #666;
+	text-decoration: none;
+	text-align: right;
+}
+#wallwrapTop {
+	float: left;
+}
+#wallwrap2 {
+	float: left;
+	width: 580px;
+}
+#artMM {
+	float: left;
+	height: 575px;
+	width: 403px;
+	margin-left: 20px;
+}
+#centerwrapperNav a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	color: #6E5639;
+	text-decoration: none;
+	width: 100px;
+	font-size: 10px;
+}
+#centerwrapperNav a:link, #centerwrapperNav a:visited {
+	text-decoration: none;
+}
+#centerwrapperNav {
+	float: right;
+	width: 100px;
+	padding-bottom: 20px;
+}
+a .grid_wood {
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+#wallwrap_wood {
+	float: left;
+	width: 225px;
+	height: 570px;
+}
+#centerwrapperLeftWood {
+	height: 600px;
+	width: 600px;
+}
+#wallwrap_wood {
+	padding-left: 55px;
+	/* [disabled]width: 200px; */
+}
+#centerwrapperLeftSite {
+	height: 700px;
+	width: 800px;
+}
+#indexquoteRev {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 24px;
+	color: #5A3E1E;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 130px;
+	font-weight: normal;
+	float: left;
+	width: 350px;
+}
+#centerIndexRev {
+	width: 800px;
+}
+.criticname {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #000;
+	font-style: normal;
+	text-align: center;
+}
+.statement {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 28px;
+	color: #4A4471;
+	text-align: left;
+	display: block;
+	margin-right: 40px;
+	margin-top: 10px;
+}
+#rightRev2011 {
+	float: left;
+	width: 400px;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: 25px top;
+	overflow: scroll;
+	height: 475px;
+}
+#centerSelex {
+	float: left;
+	height: 512px;
+	width: 700px;
+	padding-top: 30px;
+}
+#rightTopSelex {
+	background-image: url(../images/Artist_Selected-Exhibitions.jpg);
+	background-repeat: no-repeat;
+}
